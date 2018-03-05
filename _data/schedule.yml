@@ -1,0 +1,50 @@
+weeks:
+  - number: 1
+    class:
+      - date: 20180302T173000-800
+        title: Introduction
+        type: "Group Meeting"
+        materials:
+            - title: "Inventing on Principle"
+              link: https://vimeo.com/36579366
+    assignment:
+      - title: "What is a DSL?"
+        url: https://github.com/pioneer-dsl-2018/what-is-a-DSL
+        submission: 20180312T205900-800
+        critique: 20180316T205900-800
+
+  - number: 2
+    class:
+      - date: 20180316T183000-800
+        title: ""
+        type: "Group Meeting"
+    assignment:
+      - title: ""
+        url: ""
+
+  - number: 3
+    class:
+      - date: 20180330T183000-800
+        title: ""
+        type: "Group Meeting"
+    assignment:
+      - title: ""
+        url: ""
+
+  - number: 4
+    class:
+      - date: 20180406T183000-800
+        title: ""
+        type: "Group Meeting"
+    assignment:
+      - title: ""
+        url: ""
+
+  - number: 5
+    class:
+      - date: 20180420T183000-800
+        title: ""
+        type: "Group Meeting"
+    assignment:
+      - title: ""
+        url: ""
