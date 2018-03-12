@@ -5,8 +5,8 @@ permalink: /resources
 ---
 
 ## Working on assignments
-   - [Assignment HOWTO](Assignment-HOWTO.html): How to use GitHub to work on assignments.
-   - [Installing Sourcetree](Installing-SourceTree.html): How to install a visual Git / GitHub program.
+   - [Assignment HOWTO](./Assignment-HOWTO.html): How to use GitHub to work on assignments.
+   - [Installing Sourcetree](./Installing-SourceTree.html): How to install a visual Git / GitHub program.
 
 ## Git resources
    - [Sourcetree](https://www.sourcetreeapp.com/): an excellent (and free!) graphical Git client for Windows and Mac.
