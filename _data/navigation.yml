@@ -4,14 +4,16 @@ main:
     url: https://app.schoology.com/course/1448538421/material
   - title: "<span class='fab fa-fw fa-github'></span> GitHub"
     url: https://github.com/pioneer-dsl-2018
-  - title: "<span class='fas fa-fw fa-bookmark'></span> Syllabus"
-    url: /syllabus
+#  - title: "<span class='fas fa-fw fa-bookmark'></span> Syllabus"
+#    url: /syllabus
   - title: "<span class='fas fa-fw fa-info-circle'></span> Resources"
     url: /resources        
 
-docs:
+side:
   - title: DSLs @ Pioneer Academics
     children:
+      - title: "<span class='fas fa-fw fa-calendar'></span> Schedule"
+        url: /
       - title: "<span class='fas fa-fw fa-graduation-cap'></span> Schoology"
         url: https://app.schoology.com/course/1448538421/material
       - title: "<span class='fab fa-fw fa-github'></span> GitHub"
