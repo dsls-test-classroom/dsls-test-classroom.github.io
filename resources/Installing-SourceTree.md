@@ -29,8 +29,8 @@ If you download the Windows version:
    1. Double-click the file, which should open an installer. Follow the
       instructions to install.
 
-_Note: I don't have Windows, so I wasn't able to verify that these instructions
-work. Please let me know if they don't._
+**Note:** I don't have Windows, so I wasn't able to verify that these instructions
+work. Please let me know if they don't.
 {: .notice--warning}
 
 <a name="connect"></a>
