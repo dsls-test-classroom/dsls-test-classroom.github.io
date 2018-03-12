@@ -5,8 +5,10 @@ weeks:
         title: Introduction
         type: "Group Meeting"
         materials:
-            - title: "Inventing on Principle"
-              link: https://vimeo.com/36579366
+            - title: "Outline"
+              link: "/class/class1_outline.html"
+            - title: "Coding Bat repo"
+              link: "https://github.com/pioneer-dsl-2018/practice-git-workflow"
     assignment:
       - title: "What is a DSL?"
         url: https://github.com/pioneer-dsl-2018/what-is-a-DSL

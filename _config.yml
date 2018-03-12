@@ -35,7 +35,7 @@ plugins:
 defaults:
   # outlines
   - scope:
-      path: ""
+      path: "resources"
       type: "pages"
     values:
       # sidebar:
