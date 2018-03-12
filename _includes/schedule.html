@@ -33,7 +33,13 @@
             </td>
             <td class="assignment">
                 <p class="title">
-                    <a href="{{ assignment.url }}">{{  assignment.title }}</a>
+                    {% if assignment.url %}
+                        <a href="{{ assignment.url }}">
+                    {% endif %}
+                    {{  assignment.title }}
+                    {% if assignment.url %}
+                        </a>
+                    {% endif %}
                 </p>
                 {% if assignment.submission %}
                     <p class="due-date">

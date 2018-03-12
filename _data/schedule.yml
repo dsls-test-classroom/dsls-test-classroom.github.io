@@ -16,11 +16,13 @@ weeks:
   - number: 2
     class:
       - date: 20180316T183000-800
-        title: ""
+        title: "Fluency and composition"
         type: "Group Meeting"
     assignment:
-      - title: ""
-        url: ""
+      - title: "Fluency"
+        url: null
+        submission: 20180326T205900-800
+        critique: 20180329T205900-800
 
   - number: 3
     class:
